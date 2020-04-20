@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main-content{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+#spinner{
+    background: #c6523b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
