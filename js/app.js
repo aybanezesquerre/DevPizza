@@ -1,9 +1,8 @@
 function validate() {
     var spinner=document.getElementById('spinner');
-    spinner.hidden=false;
     setTimeout(function(){
-      spinner.hidden=true;
-    }, 5000);
+        spinner.style.display="none";
+    }, 3000);
     return false;
   }
 
