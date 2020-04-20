@@ -9,7 +9,8 @@ body{
     position: fixed;
 }
 #spinner{
-    background: #c6523b;
+    background: #Dd0021;
+    z-index: 999;
     display: flex;
     justify-content: center;
     align-items: center;
